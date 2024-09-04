@@ -73,8 +73,8 @@ This project is a full-stack web application designed to manage a list of books.
 
 2. Create a virtual environment and activate it:
    ```bash
-   python -m venv venv
-   source venv/bin/activate
+   python -m venv env
+   source env/bin/activate
    ```
 
 3. Install the dependencies:
