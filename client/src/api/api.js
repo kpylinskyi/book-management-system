@@ -108,7 +108,7 @@ export const deleteBook = async (id) => {
   }
 };
 
-export const getBooksByAuthor = async (authorId) => {
+export const getBooksByAuthorId = async (authorId) => {
   try {
     const response = await axios.get(`${API_BASE_URL}/authors/${authorId}/books/`);
     return { data: response.data };
