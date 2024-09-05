@@ -20,7 +20,7 @@ This project is a full-stack web application designed to manage a list of books.
 - **Error Handling**: Displays appropriate error messages to the user when API interactions fail.
 - **Features**: Filtering and sorting of the book list.
 
-[see client readme](client/README.md)
+[See client readme](client/README.md)
 
 ### Backend (Django)
 
