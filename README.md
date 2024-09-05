@@ -20,6 +20,8 @@ This project is a full-stack web application designed to manage a list of books.
 - **Error Handling**: Displays appropriate error messages to the user when API interactions fail.
 - **Features**: Filtering and sorting of the book list.
 
+[see client readme](client/README.md)
+
 ### Backend (Django)
 
 - **Models**:
@@ -99,6 +101,10 @@ This project is a full-stack web application designed to manage a list of books.
 
    The Django API will be accessible at `http://localhost:8000`.
 
+
+### Alternative
+Run shel scripts defined at `start-api.sh` and `start-client.sh`
+
 ## API Documentation
 
 - **Base URL**: `http://localhost:8000/api/`
@@ -120,7 +126,7 @@ This project is a full-stack web application designed to manage a list of books.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ---
 
