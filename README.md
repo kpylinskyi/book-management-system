@@ -117,13 +117,6 @@ Run shel scripts defined at `start-api.sh` and `start-client.sh`
 - **Code Repository**: The complete source code for this project is available on GitHub.
 - **Contributions**: Contributions to improve or extend this project are welcome. Please submit a pull request with your proposed changes.
 
-## Evaluation Criteria
-
-- **Correctness**: Proper API interaction and functionality of the frontend and backend.
-- **UI/UX**: User interface design and user experience.
-- **Code Quality**: Cleanliness, structure, and organization of the code.
-- **Compliance**: Adherence to the provided task requirements.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
@@ -131,13 +124,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 ---
 
 Feel free to reach out if you have any questions or need further clarification on the setup or functionality of this project.
-
-### Key Sections
-
-- **Project Structure**: Explains where the frontend and backend code is located.
-- **Features**: Describes what functionalities are provided by both the frontend and backend.
-- **Setup Instructions**: Provides step-by-step instructions to set up both the frontend and backend environments.
-- **API Documentation**: Basic information about the API endpoints.
-- **Additional Information**: Information on where to find the code and how to contribute.
-- **Evaluation Criteria**: Lists the criteria used to evaluate the project.
-- **License**: Mentions the licensing details if applicable.
