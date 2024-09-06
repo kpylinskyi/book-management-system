@@ -110,6 +110,7 @@ Run shel scripts defined at `start-api.sh` and `start-client.sh`
 - **Base URL**: `http://localhost:8000/api/`
 - **Endpoints**:
   - `/authors/` - List and manage authors.
+  - `/authors/{id}/books` List author's books.
   - `/books/` - List and manage books.
 
 ## Additional Information
